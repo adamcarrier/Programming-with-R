@@ -1,2 +1,5 @@
+# ignore RStudio command history
+/Week 2/.Rhistory
+
 # ignore sample testing csv files
 /Week 2/specdata
