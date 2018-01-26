@@ -3,4 +3,5 @@
 
 # ignore sample testing csv files
 /Week 2/specdata
-/Week 4/ProgAssignment3-data
+/Week 4/hospital-data.csv
+/Week 4/outcome-of-care-measures.csv
